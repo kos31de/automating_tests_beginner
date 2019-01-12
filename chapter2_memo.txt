@@ -1,0 +1,4 @@
+# ログインの手順
+* EmailとPasswordを入力
+* Sign inボタンを押す
+* Welcomeと表示される
