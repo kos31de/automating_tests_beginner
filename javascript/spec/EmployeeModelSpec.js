@@ -54,7 +54,7 @@ describe("When selecting elements for employee - external fixture", function(){
     });
 
     it("should be able to get Onsite", function(){
-        expect(model.getOnsite()).toEqual(['1','2']);
+        expect(model.getOnsite()).toEqual([]);
     });
 
 });

@@ -19,7 +19,7 @@ describe("When adding employees", function(){
             '</select>' +
             '<input id="leftArrow" type="button" value=" < "  />' +
             '<input id="rightArrow" type="button" value=" > " />' +
-            '<select id="Offste" size="4" multiple="multiple">' +
+            '<select id="Offsite" size="4" multiple="multiple">' +
             '<option value="3">Three</option>' +
             '<option value="4">Four</option>' +
             '</select>'
