@@ -1,8 +1,9 @@
-class PlayerMock
+class Player
+
   attr_accessor :connector
 
   def initialize
-    @connect = Connector.new
+    @connector = Connector.new
   end
 
   def playTrack(track)
